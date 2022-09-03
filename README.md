@@ -42,3 +42,6 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
   - Ao apagar um tópico no windows via Kafka CLI, os arquivos do Kafka ficam corrompidos e a unica solução para retomar é apagar os arquivos contidos da pasta __data__ e inicializar/criar novamente os tópicos.
   
+### 📋 Fonte curso via Udemy
+
+* [Apache Kafka para iniciantes](https://www.udemy.com/course/apache-kafka-para-iniciantes/)
